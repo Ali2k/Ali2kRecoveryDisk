@@ -1,7 +1,5 @@
 # ![Ali2k Recovery Disk](docs/02.jpg)
 
-# Ali2k Recovery Disk
-
 #### GParted 0.16.1-1-i486
 #### Norton Ghost 2003
 #### DOS Windows 98 V4.10.2222
